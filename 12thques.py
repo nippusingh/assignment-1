@@ -16,7 +16,7 @@ def sum_of_digits(number):
 
     return sum
 
-print("
+print(f"sum of digits of {num} is:{sum_of_didgits(num)}")
 
 
 
